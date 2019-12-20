@@ -1,0 +1,63 @@
+{
+    "name": "WePay",
+    "description": "WePay is an integrated payments provider for SaaS and crowdfunding platforms. Grow your revenue without friction or fraud.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/675-wepay.jpg",
+    "tags": [
+        "financial services",
+        "have api",
+        "marketplaces",
+        "payments",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/wepay\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "WePay",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/675-wepay.jpg",
+            "humanURL": "https:\/\/www.wepay.com\/developer",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/wepay-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/wepayapi.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.wepay.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/wepay"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/wepay"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/wepay"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/WePay"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.wepay.com\/developer"
+        }
+    ]
+}
