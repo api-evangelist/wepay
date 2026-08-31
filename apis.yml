@@ -66,6 +66,11 @@ x-enrichment:
   artifacts_added: 1
   pass: local-v1
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/jp-morgan-chase/
+  name: JPMorgan Chase
+  x-relationship: acquired
+  x-evidence: "WePay was acquired by JPMorgan Chase in 2017 and its capabilities were folded into Chase Integrated Payments (WePay Clear and WePay Link)."
 - type: DomainSecurity
   url: security/wepay-domain-security.yml
 - type: Website
